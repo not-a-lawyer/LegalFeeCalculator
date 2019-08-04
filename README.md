@@ -11,4 +11,4 @@ Usage of [datetime](https://docs.python.org/3/library/datetime.html) module from
 
 3. ...
 
-N. Use NLP to create chatbot answering deadline questions
+n. Use NLP to create chatbot answering deadline questions
