@@ -9,6 +9,6 @@ Usage of [datetime](https://docs.python.org/3/library/datetime.html) module from
 
 2. Check whether [calendar](https://docs.python.org/3/library/calendar.html) module is useful for this project
 
-...
+3. ...
 
 N. Use NLP to create chatbot answering deadline questions
