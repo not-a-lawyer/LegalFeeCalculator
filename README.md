@@ -1,6 +1,6 @@
-# LegalStatuteOfLimitationsCalculator
-## LOLculator, German Legal Deadline Calculator \<working titles>
-## Calculate the statute of limitations according to German law in a reliable and transparent way.
+# Fristenrechner
+## LOLculator, German Legal Deadline Calculator, Fristenrechner \<Arbeitstitel>
+## Fristen transparent und sicher berechnen.
 
 
 ##To Do:
